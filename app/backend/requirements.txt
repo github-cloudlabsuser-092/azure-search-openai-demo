@@ -340,7 +340,7 @@ pymupdf==1.23.26
     # via -r requirements.in
 pymupdfb==1.23.22
     # via pymupdf
-pypdf==4.1.0
+pypdf==6.0.0
     # via -r requirements.in
 python-dateutil==2.9.0.post0
     # via
